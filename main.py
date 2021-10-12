@@ -1,3 +1,4 @@
+//This program uses python.
 r = 0
 i = 0
 c = 0
